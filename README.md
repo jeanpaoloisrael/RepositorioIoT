@@ -2,6 +2,7 @@ RepositorioIoT
 ==============
 
 Este es mi repositorio de proyectos Node RED
+Configuración inicial de los nodos para el proyecto de IoT de la UTMACH
 
 ### About
 
