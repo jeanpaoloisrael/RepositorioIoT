@@ -51,5 +51,30 @@
         "x": 660,
         "y": 80,
         "wires": []
+    },
+    {
+        "id": "ec36cac682941172",
+        "type": "change",
+        "z": "f2747410edf88ce2",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 480,
+        "y": 80,
+        "wires": [
+            []
+        ]
     }
 ]
